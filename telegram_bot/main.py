@@ -91,7 +91,7 @@ async def finish(message: types.Message, state: FSMContext):
 
     await message.answer(
         "✅ Rahmat! Siz bilan tez orada bog‘lanamiz.\n"
-        "📌 Batafsil ma’lumot: https://t.me/com3n",
+        "📌 Batafsil ma’lumot: https://t.me/movemegroup",
         reply_markup=types.ReplyKeyboardRemove()
     )
 
